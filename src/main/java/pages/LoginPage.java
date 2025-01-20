@@ -20,6 +20,8 @@ public class LoginPage {
 	 @FindBy(how = How.XPATH, using = "//*[@id=\"user_name\"]") WebElement UserName;
 	 @FindBy(how = How.XPATH, using = "//*[@id=\"password\"]") WebElement Password;
 	 @FindBy(how = How.XPATH, using = "//*[@id=\"login_submit\"]") WebElement SignInButton;
+
+	
 	 
 
 
